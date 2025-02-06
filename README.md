@@ -25,6 +25,5 @@ This project dives deep into Netflix's content dataset, uncovering patterns and 
 
 📧 Contact
 Feel free to reach out for collaboration or queries:
-•Name: Rachit Bhatia
-•Email: rachitbhatia2807@gmail.com
-•GitHub: rachit2807
+•Name: Prakarti
+•Email: prakarti.300@gmail.com
